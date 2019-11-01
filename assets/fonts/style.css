@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'Kids Zone';
+   font-display: swap;
+   src: url('Kids Zone/font.ttf');
+}
+@font-face {
+   font-family: 'Unicorn Pop';
+   font-display: swap;
+   src: url('Unicorn Pop/font.ttf');
+}
+@font-face {
+   font-family: 'Splatch';
+   font-display: swap;
+   src: url('Splatch/font.ttf');
+}
